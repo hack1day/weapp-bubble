@@ -1,4 +1,4 @@
-# Wechat bubble
+# Weapp bubble
 
 聊天气泡生成器小程序版。
 
